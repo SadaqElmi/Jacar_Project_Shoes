@@ -5,6 +5,7 @@ function App() {
       <p>changes ayaan sameeyey</p>
       <p>hello my friendos</p>
       <p>waxbaro moha jakaar</p>
+      <p>Mahdi jacar</p>
     </>
   );
 }
